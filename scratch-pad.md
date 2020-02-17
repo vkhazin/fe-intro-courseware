@@ -28,5 +28,20 @@ map link: \`[https://www.vectorstock.com/royalty-free-vector/political-map-of-af
 * Computer: attack from 50% of countries, allocating 50% of troops from each
 * End-of-game: player & system has no more troops to commit to a battle or one side owns all the countries
 
+## Canada Stats
+
+* [https://www12.statcan.gc.ca/wds-sdw/cpr2016-eng.cfm](https://www12.statcan.gc.ca/wds-sdw/cpr2016-eng.cfm)
+* Start with a map broken down to provinces and maybe more
+* On mouseover show an overlay
+* On overlay select type of data from a drop-down list
+* Button to execute a query
+* Display results in a table on the overlay
+* Close button to remove an overlay
+* Selecting another region should close an open overlay if open
+
+
+
+
+
 
 
