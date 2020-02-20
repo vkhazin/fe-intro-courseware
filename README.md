@@ -39,7 +39,7 @@ At the end of the course, you will be able to:
 
 ## Pre-requisites
 
-* Laptop with Chrome browser connected to the Internet using WiFi access provided by the facility
+* Laptop with Chrome browser installed and connected to the Internet using WiFi access provided by the facility
 * Familiar with the world wide web and a web browser as a user
 * Comfortable with using online tools, course reference, and external materials
 * Able to register on a website with a Gmail account or with a personal email address
@@ -52,6 +52,7 @@ At the end of the course, you will be able to:
 * What is Html
 
 * What is a markup language
+
 * Why Html matters
 * My first Html page
 
