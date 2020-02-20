@@ -43,6 +43,7 @@ At the end of the course, you will be able to:
 * Familiar with the world wide web and a web browser as a user
 * Comfortable with using online tools, course reference, and external materials
 * Able to register on a website with a Gmail account or with a personal email address
+* Has access to a personal email while in the classroom
 
 ## Outline
 
@@ -54,6 +55,7 @@ At the end of the course, you will be able to:
 * What is a markup language
 
 * Why Html matters
+
 * My first Html page
 
 
