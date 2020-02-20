@@ -41,7 +41,7 @@ At the end of the course, you will be able to:
 
 * Familiar with the world wide web and a web browser as a user
 * Comfortable with using online tools, course reference, and external materials
-* Able to register on a web site with a Gmail account or with a personal email address
+* Able to register on a website with a Gmail account or with a personal email address
 
 ## Outline
 
