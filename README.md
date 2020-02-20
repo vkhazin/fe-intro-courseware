@@ -16,7 +16,15 @@ JavaScript [first released in 1995 AD](https://auth0.com/blog/a-brief-history-of
 
 [GitHub](https://en.wikipedia.org/wiki/GitHub) is a home for 40 million programmers and 100 million repositories from around the world.
 
-At the end of the course
+At the end of the course, you will be able to:
+
+* Build a website with various pages
+* Style the appearance of the Html using CSS
+* Make websites interactive using JavaScript
+* Write functions using JavaScript
+* Understand the flow of a program
+* Define variables and constants
+* Utilize conditions and loops
 
 Audience
 
