@@ -19,7 +19,7 @@ JavaScript [first released in 1995 AD](https://auth0.com/blog/a-brief-history-of
 At the end of the course, you will be able to:
 
 * Build a website with various pages
-* Style the appearance of the Html using CSS
+* Style an appearance of the Html using CSS
 * Make websites interactive using JavaScript
 * Write functions using JavaScript
 * Understand the flow of a program
