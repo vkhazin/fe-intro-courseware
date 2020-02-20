@@ -39,5 +39,19 @@ map link: \`[https://www.vectorstock.com/royalty-free-vector/political-map-of-af
 * Close button to remove an overlay
 * Selecting another region should close an open overlay if open
 
+## JavaScript confusions
 
+Think of a programming language as a pencil case: a collection of tools you can use when needed
+
+Explain what a function before writing one
+
+Don't start with functions
+
+Facilitate is not a common word
+
+What's a function?
+
+How a function is different from a variable?
+
+What is a "string"?
 

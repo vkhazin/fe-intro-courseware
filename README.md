@@ -2,11 +2,11 @@
 
 ## Overview and Objectives
 
-Steve Jobs, a founder of Apple, once said: "Everybody in this country should learn how to program a computer... because it teaches you how to think."
+Steve Jobs, the founder of Apple, once said: "Everybody in this country should learn how to program a computer... because it teaches you how to think." Which country? Possibly all of them.
 
 The course will teach how to program a front-end for an application using Html, CSS, and JavaScript
 
-There are close to [2 billion websites](https://www.internetlivestats.com/total-number-of-websites/) in the world and about [90% are using Html](https://w3techs.com/technologies/history_overview/markup_language) markup language. Everywhere you go on the Internet with a browser, whether Safari, Chrome, or Firefox, you access and interact with a website on a daily basis.
+There are close to [2 billion websites](https://www.internetlivestats.com/total-number-of-websites/) in the world and about [90% are using Html](https://w3techs.com/technologies/history_overview/markup_language): hypertext markup language. Everywhere you go on the Internet with a browser, whether Safari, Chrome, or Firefox, you access and interact with a website on a daily basis.
 
 CSS is a language used to detail the presentation of a web page's markups, which means without CSS, Html websites will not be visually appealing.
 
@@ -44,6 +44,16 @@ At the end of the course, you will be able to:
 * Able to register on a website with a Gmail account or with a personal email address
 
 ## Outline
+
+### Course Overview
+
+* 
+### Html First Steps
+
+* What is Html
+* What is a markup language
+* Why Html matters
+* My first Html page
 
 
 
