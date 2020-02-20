@@ -35,12 +35,12 @@ At the end of the course, you will be able to:
 * Build interactive experience using JavaScript
 * Learn the basic structure of a software program
 * Understand the meaning of variables, functions, loops, and conditions
-* Get familiar with manipulating in-memory data using arrays
+* Get familiar with manipulating in-memory data
 
 ## Pre-requisites
 
 * Familiar with the world wide web and a web browser as a user
-* Comfortable with using online tools and course reference and external materials
+* Comfortable with using online tools, course reference, and external materials
 * Able to register on a web site with a Gmail account or with a personal email address
 
 ## Outline
