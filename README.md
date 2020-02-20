@@ -2,7 +2,7 @@
 
 ## Overview and Objectives
 
-Steve Jobs, a founder of Apple once said: "Everybody in this country should learn how to program a computer... because it teaches you how to think."
+Steve Jobs, a founder of Apple, once said: "Everybody in this country should learn how to program a computer... because it teaches you how to think."
 
 The course will teach how to program a front-end for an application using Html, CSS, and JavaScript
 
