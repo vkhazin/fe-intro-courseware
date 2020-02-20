@@ -25,10 +25,20 @@ At the end of the course, you will be able to:
 * Understand the flow of a program
 * Define variables and constants
 * Utilize conditions and loops
+* Deploying a web site to a hosting provider
 
-Audience
+## Audience
 
-Pre-requisites
+* The course is suitable for inexperienced students not familiar yet with Html, CSS, and JavaScript
+* Who are looking for a basic proficiency creatin Html pages
+* * 
+## Pre-requisites
 
-Outline
+* Familiar with the world wide web and a web browser as a user
+* Comfortable with using online tools and course reference and external materials
+* Able to register on a web site with a Gmail account or with a personal email address
+
+## Outline
+
+
 
