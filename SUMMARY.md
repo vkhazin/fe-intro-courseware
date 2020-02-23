@@ -9,6 +9,9 @@
 * [Audience](/course-intro/audience.md)
 * [Prerequisites](/course-intro/prerequisites.md)
 * [Logistics](/course-intro/logistics.md)
+* [About you](/course-intro/about-you.md)
+
+
 
 
 
