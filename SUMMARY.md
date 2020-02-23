@@ -1,7 +1,5 @@
 # Summary
 
-## Course Introduction
-
 ## Course Overview
 
 * [Getting Started](/course-overview/getting-started.md)
@@ -10,6 +8,12 @@
 * [Prerequisites](/course-overview/prerequisites.md)
 * [Logistics](/course-overview/logistics.md)
 * [About you](/course-overview/about-you.md)
+
+## Course Introduction
+
+* [Introduction](/course-intro/intro.md)
+* [World Wide Web](/course-intro/world-wide-web.md)
+* [Html First Steps](/course-intro/html-first-steps.md)
 
 
 
