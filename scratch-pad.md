@@ -1,6 +1,6 @@
 # ScratchPad
 
-Cloud IDE Candidates
+## Cloud IDE Candidates
 
 glitch.com - childish
 
@@ -11,6 +11,10 @@ repl.it - git support
 jsfiddle - weird file management
 
 map link: \`[https://www.vectorstock.com/royalty-free-vector/political-map-of-africa-in-four-shades-of-grey-vector-15466462](https://www.vectorstock.com/royalty-free-vector/political-map-of-africa-in-four-shades-of-grey-vector-15466462)\`
+
+First-ever web site: [http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html](http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html)
+
+Internet stats: [https://www.websitehostingrating.com/internet-statistics-facts/](https://www.websitehostingrating.com/internet-statistics-facts/)
 
 ## COH
 
