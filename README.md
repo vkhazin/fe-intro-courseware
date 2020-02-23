@@ -50,6 +50,7 @@ At the end of the course, you will be able to:
 
 ### Course Introduction
 
+* World Wide Web
 * Html First Steps
 * What is Html
 * What is a markup language
