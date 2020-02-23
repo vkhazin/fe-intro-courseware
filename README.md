@@ -48,16 +48,13 @@ At the end of the course, you will be able to:
 
 ## Outline
 
-### Course Overview
+### Course Introduction
 
-* ### Html First Steps
+* Html First Steps
 * What is Html
-
 * What is a markup language
-
 * Why Html matters
-
 * My first Html page
-
+* 
 
 
