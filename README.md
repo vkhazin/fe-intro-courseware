@@ -55,6 +55,6 @@ At the end of the course, you will be able to:
 * What is a markup language
 * Why Html matters
 * My first Html page
-* 
+
 
 
