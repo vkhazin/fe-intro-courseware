@@ -4,7 +4,6 @@
 * Author of the webpage formats the page using Html tags for example:
   * `<html>` tag represents a complete webpage also called 'Html Document'
   * `<head>` tag displays a title of the page in a web browser
-
 * The author also adds content e.g. `This is a paragraph.` between Html tags:
 
 ```
