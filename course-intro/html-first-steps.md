@@ -2,7 +2,7 @@
 
 * Html a language understood by all web browsers to present information on a webpage to you
 * Creator or, so-called, author of the webpage formats page 
-* Html language formats elements with [tags](https://www.w3schools.com/tags/ref_byfunc.asp), e.g. `<html>` that represents a complete webpage or Html Document
+* Html language formats elements with tags, e.g. `<html>` that represents a complete webpage or Html Document
 * And add content e.g. `This is a paragraph.` between the tags:
 
 ```
