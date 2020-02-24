@@ -1,9 +1,11 @@
 # Html First Steps
 
 * Html is a language understood by all web browsers to present information on a webpage to the user
-* Author of the webpage formats the page using Html tags
-* `<html>` tag represents a complete webpage also called 'Html Document'
-* * The author also adds content e.g. `This is a paragraph.` between the Html tags:
+* Author of the webpage formats the page using Html tags for example:
+  * `<html>` tag represents a complete webpage also called 'Html Document'
+  * `<head>` tag displays a title of the page in a web browser
+
+* The author also adds content e.g. `This is a paragraph.` between Html tags:
 
 ```
 <html>
@@ -17,7 +19,7 @@
 </html>
 ```
 
-* You, or so-called, end-user sees, in a web browser, formatted content only:
+* An end-user formatted content only:
 
 ![](/assets/html.png)
 
