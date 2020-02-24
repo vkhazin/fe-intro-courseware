@@ -18,7 +18,7 @@
 </html>
 ```
 
-* An end-user formatted content only:
+* In a web browser, an end-user sees formatted content only:
 
 ![](/assets/html.png)
 
