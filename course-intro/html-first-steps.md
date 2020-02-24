@@ -18,7 +18,7 @@
 </html>
 ```
 
-* In a web browser end-user sees the content only, no Html tags:
+* In a web browser end-user sees the content only, no Html tags, the Html will be rendered as following:
 
 ![](/assets/html.png)
 
