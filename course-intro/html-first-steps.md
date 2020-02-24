@@ -2,8 +2,8 @@
 
 * Html is a language understood by all web browsers to present information on a webpage to you
 * Creator or, so-called, author of the webpage formats the page using Html tags
-* E e.g. `<html>` that represents a complete webpage also called 'Html Document'
-* And add content e.g. `This is a paragraph.` between the tags:
+* E.g. `<html>` that represents a complete webpage also called 'Html Document'
+* The author also adds content e.g. `This is a paragraph.` between the Html tags:
 
 ```
 <html>
