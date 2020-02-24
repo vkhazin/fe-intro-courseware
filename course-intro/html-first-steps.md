@@ -22,7 +22,7 @@
 ![](/assets/html.png)
 
 * Where do you see `html, head, body, h1, or p`in the web browser?
-* Why are the two lines in the web browser different?
+* Why are the two lines of text in the web browser different in size?
 * Where do you see `<title>Page Title</title>` in the web browser?
 
 
