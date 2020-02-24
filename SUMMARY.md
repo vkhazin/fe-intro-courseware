@@ -14,6 +14,8 @@
 * [Introduction](/course-intro/intro.md)
 * [World Wide Web](/course-intro/world-wide-web.md)
 * [Html First Steps](/course-intro/html-first-steps.md)
+* [What is Html](/course-intro/whats-html.md)
+* [Why Html matters](/course-intro/why-html-matters.md)
 
 
 

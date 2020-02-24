@@ -6,7 +6,7 @@
 * Markup language is built up from tags and content
 * The tags are used to format the content but are not displayed on their own, e.g. `<h1>Headline</h1>`
 * There are about 110 Html tags in total used to format all the ~2b websites in the world
-* Html went through its own evolution from version 1 to current version 5 with new versions  coming
+* Html went through its own evolution from version 1 to current version 5 with next versions  coming
 
 
 
