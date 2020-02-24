@@ -1,6 +1,6 @@
 # Html First Steps
 
-* Html is a language understood by all web browsers to present information on a webpage to the user
+* Html is a language understood by all web browsers to present information
 * Author of the webpage formats the page using Html tags for example:
   * `<html>` tag represents a complete webpage also called 'Html Document'
   * `<head>` tag displays a title of the page in a web browser
