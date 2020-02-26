@@ -39,6 +39,10 @@
 * Let's enhance the Html markup
 * Change heading from `This is a Heading` to `Welcome to Cradle of Humanity!`this is going to be the name of our game we will build
 * We will discuss the rules as we go or we can, even, come up with new rules
+* Next, modify `<p>This is a paragraph.</p>` to `<p>Created by: {your name}.</p>`
+* Curly braces or parenthesis `{}` are frequently used to indicate that this text will be replaced
+* In our case, you should replace `{your name}` with your actual name or a nickname of your choice
+* How do you make changes to appear on the preview panel?
 
 
 
