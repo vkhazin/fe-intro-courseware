@@ -43,7 +43,7 @@
 * Curly braces or parenthesis `{}` are frequently used to indicate that this text will be replaced
 * In our case, you should replace `{your name}` with your actual name or a nickname of your choice
 * How do you make changes to appear on the preview panel?
-* In Html we have tag e.g. `<p>` and we have attributes that change the appearance, e.g.: `<p align="right"></p>` will position the content inside the tag on the right-side instead of the default on the left-side
+* In Html, we have tag e.g. `<p>` and we have attributes that change the appearance, e.g.: `<p align="right"></p>` will position the content inside the tag on the right-side instead of the default on the left-side
 * Let's change the alignment of author name: replace `<p>Created by: {your name}</p>` with `<p align="right">Created by: {your name}</p>` and `run` to see the changes
 * What has changed?
 * Why has it changed?
