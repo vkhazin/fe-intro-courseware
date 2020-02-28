@@ -15,7 +15,10 @@
 * [World Wide Web](/course-intro/world-wide-web.md)
 * [Html First Steps](/course-intro/html-first-steps.md)
 * [What is Html](/course-intro/whats-html.md)
-* [Why Html matters](/course-intro/why-html-matters.md)
+* [Lab: My First Html Page](/course-intro/lab-my-first-html-page.md)
+* [Common Tags](/course-intro/common-tags.md)
+
+
 
 
 
