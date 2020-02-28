@@ -17,8 +17,7 @@
 * [What is Html](/course-intro/whats-html.md)
 * [Lab: My First Html Page](/course-intro/lab-my-first-html-page.md)
 * [Common Tags](/course-intro/common-tags.md)
-
-
+* [Lab: Common Tags](/course-intro/lab-common-tags.md)
 
 
 
