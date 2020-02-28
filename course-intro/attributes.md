@@ -6,7 +6,7 @@
 * Border attribute will add a border around the table and between every table cell
 * Attribute names do not tolerate spaces, you will find some attributes look like words together, e.g.: [readonly](https://www.w3schools.com/tags/att_readonly.asp)
 * Attribute values are enclosed in double or single quotes
-* Attributes, similarly to elemtns
+* [Attributes](https://www.w3schools.com/tags/ref_attributes.asp), similarly to elements, are well known and are getting added and removed over time
 
 
 
