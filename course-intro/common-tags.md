@@ -1,12 +1,14 @@
 # Common Tags
 
-* `<head>`Contains elements describing the document`</head>`
-* `<body>`The content of your HTML page`</body>`
+* Tags in Html define elements, elements are rendered by a web browser for display
+* `<head>`Contains other tags/elements describing the document`</head>`
+* `<body>`The content of your Html page`</body>`
 * `<title>`Tab or Browser Window name`</title>`
-* `<h1>`Heading 1`</h1>`, there are h1 to h6 tags in Html
+* `<h1>`Heading 1or a more prominent text`</h1>`, there are h1 to h6 elements in Html
 * `<p>`Paragraph`</p>` is used to define paragraph content in Html
 * `<b>`This will render as **bold** text`</b>`
 * `<i>`This will render as _italic_ text`</i>`
+* `<b><i>`This will render as _**bold italic**_`</i></b>` when elements are often nested
 * `<a href="https://www.google.ca">`A link to Google website`</a>`
 * `<li>`A list item, similar to a bullet point`</li>`
 * &lt;!-- This will be a comment for Html author, not rendered by a web browser --&gt;

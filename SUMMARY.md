@@ -18,6 +18,7 @@
 * [Lab: My First Html Page](/course-intro/lab-my-first-html-page.md)
 * [Common Tags](/course-intro/common-tags.md)
 * [Lab: Common Tags](/course-intro/lab-common-tags.md)
+* [Attributes](/course-intro/attributes.md)
 
 
 
