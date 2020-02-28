@@ -30,8 +30,8 @@
 </table>
 ```
 
-* There are quite a bit more [Html tags](https://www.w3schools.com/TAGS/default.ASP)
-* Web browsers are not the same and you may get a different experience with different browsers, e.g. Chrome vs. Firefox
+* There are quite a bit more [Html tags](https://www.w3schools.com/TAGS/default.ASP), some are being added and some removed as Html evolves
+* Web browsers are not the same and you may see some surprises with different browsers, e.g. Chrome vs. Firefox
 
 
 
