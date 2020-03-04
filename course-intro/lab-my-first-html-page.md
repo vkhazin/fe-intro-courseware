@@ -33,7 +33,7 @@
 </html>
 ```
 
-* Right-click on the mark-up and select `Format Document` to beautify it
+* Right click on the markup and select `Format Document` to beautify it
 * Select `run` on the top and the preview pane on the right should refresh to reflect the changes
 * You can also select the `open in a new tab` icon
 * Let's enhance the Html markup
