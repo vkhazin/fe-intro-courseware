@@ -17,7 +17,7 @@
 * On top of the screen, there is a `run` button to apply our changes
 * If you would like to open a new browser tab to preview your page, refresh the tab to see the changes
 * That's all that we need to know about repl.it to start using it as our online integrated development environment
-* Select `jndex.html` in the files on the left
+* Select `index.html` in the files on the left
 * Select all the markup in the middle pane and delete - we will start from scratch
 * Type or copy new html mark-up:
 
