@@ -9,7 +9,7 @@
 * If you have selected to create an account with an email address and password, make sure to remember the two
 * After you have logged into the newly created repl.it account
 * Select `+new repl` and keep it public
-* For the language type `html` and select `HTML, CSS JS` for the name of the new repl type: `lab-my-first-html-page`
+* For the language type: `html` and select: `HTML, CSS JS` for the name of the new repl type: `lab-my-first-html-page`
 * Select `create repl` and you should get your online environment ready
 * On the left hand, you will see the list of files: `index.html`, `script.js` and `style.css`
 * In the middle, you will see markup for the index.html
