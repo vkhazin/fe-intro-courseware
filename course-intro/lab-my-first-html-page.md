@@ -34,10 +34,10 @@
 ```
 
 * Right click on the markup and select `Format Document` to beautify it
-* Select `run` on the top and the preview pane on the right should refresh to reflect the changes
+* Select `run` button on the top and the preview pane on the right should refresh to reflect the changes
 * You can also select the `open in a new tab` icon
 * Let's enhance the Html markup
-* Change heading from `This is a Heading` to `Welcome to Cradle of Humanity!`this is going to be the name of our game we will build
+* Change heading from `This is a Heading` to `Welcome to Cradle of Humankind!`this is going to be the name of our game we will build
 * We will discuss the rules as we go or we can, even, come up with new rules
 * Next, modify `<p>This is a paragraph.</p>` to `<p>Created by: {your name}.</p>`
 * Curly braces or parenthesis `{}` are frequently used to indicate that this text will be replaced
