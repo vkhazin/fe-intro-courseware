@@ -33,17 +33,17 @@
 </html>
 ```
 
-* Right click on the markup and select `Format Document` to beautify it
+* Right-click on the markup and select `Format Document` to beautify it
 * Select `run` button on the top and the preview pane on the right should refresh to reflect the changes
 * You can also select the `open in a new tab` icon
 * Let's enhance the Html markup
-* Change heading from `This is a Heading` to `Welcome to Cradle of Humankind!`this is going to be the name of our game we will build
-* We will discuss the rules as we go or we can, even, come up with new rules
+* Change heading from `This is a Heading` to `Welcome to Cradle of Humankind!,`this is going to be the name of our game we will build
+* We will discuss the rules as we go or we can even come up with new rules
 * Next, modify `<p>This is a paragraph.</p>` to `<p>Created by: {your name}.</p>`
 * Curly braces or parenthesis `{}` are frequently used to indicate that this text will be replaced
 * In our case, you should replace `{your name}` with your actual name or a nickname of your choice
 * How do you make changes to appear on the preview panel?
-* In Html, we have tag e.g. `<p>` and we have attributes that change the appearance, e.g.: `<p align="right"></p>` will position the content inside the tag on the right-side instead of the default on the left-side
+* In Html, we have tag e.g. `<p>` and we have attributes that change the appearance, e.g.: `<p align="right"></p>` will position the content inside the tag on the right side instead of the default on the left side
 * Let's change the alignment of author name: replace `<p>Created by: {your name}</p>` with `<p align="right">Created by: {your name}</p>` and `run` to see the changes
 * What has changed?
 * Why has it changed?
