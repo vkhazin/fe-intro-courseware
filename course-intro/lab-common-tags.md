@@ -2,7 +2,7 @@
 
 * Open Google Chrome browser to [https://repl.it](https://repl.it/)
 * Select `index.html` in the Files pane
-* Using Html the previous slide or [tags reference](https://www.w3schools.com/TAGS/default.ASP) modify the Html
+* Using Html tags from the previous slide or online [tags reference](https://www.w3schools.com/TAGS/default.ASP) materials modify the Html
 * A hint: rules with their description are inside an Html table 
 * Don't forget to `run` you changes
 * You can also open your website in a new tab using the up-right pointing arrow on the right pane 
