@@ -28,8 +28,8 @@
   </div>
 ```
 
-* **A warning**: images as other artwork on the Internet are often protected by copyright and you cannot just "borrow" them!
-* **Another warning**: while it is possible to beautify Html with attributes, a more common, modern approach, will be to leverage CSS as we will cover in the continuation of this course
+* **A warning**: images as other artwork on the Internet are often protected by copyright and we cannot just "borrow" them!
+* **Another warning**: while it is possible to beautify Html with tables and attributes, a more common, modern approach, will be to leverage CSS as we will cover in the continuation of this course
 
 
 
