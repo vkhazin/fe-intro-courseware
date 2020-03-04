@@ -11,14 +11,15 @@
 
 ## Course Introduction
 
-* [Introduction](/course-intro/intro.md)
-* [World Wide Web](/course-intro/world-wide-web.md)
-* [Html First Steps](/course-intro/html-first-steps.md)
-* [What is Html](/course-intro/whats-html.md)
-* [Lab: My First Html Page](/course-intro/lab-my-first-html-page.md)
-* [Common Tags](/course-intro/common-tags.md)
-* [Lab: Common Tags](/course-intro/lab-common-tags.md)
-* [Attributes](/course-intro/attributes.md)
+* [Introduction](/html-intro/intro.md)
+* [World Wide Web](/html-intro/world-wide-web.md)
+* [Html First Steps](/html-intro/html-first-steps.md)
+* [What is Html](/html-intro/whats-html.md)
+* [Lab: My First Html Page](/html-intro/lab-my-first-html-page.md)
+* [Common Tags](/html-intro/common-tags.md)
+* [Lab: Common Tags](/assets/lab-common-tags.png)
+* [Attributes](/html-intro/attributes.md)
+* [Lab: Attributes](/html-intro/lab-attributes.md)
 
 
 
