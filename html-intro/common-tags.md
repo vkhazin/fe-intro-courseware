@@ -9,7 +9,6 @@
 * `<b>`This will render as **bold** text`</b>`
 * `<i>`This will render as _italic_ text`</i>`
 * `<b><i>`This will render as _**bold italic**_`</i></b>` when elements are often nested
-* `<a href="https://www.google.ca">`A link to Google website`</a>`
 * `<li>`A list item, similar to a bullet point`</li>`
 * &lt;!-- This will be a comment for Html author, not rendered by a web browser --&gt;
 * `<hr/>` will render a horizontal line, notice how the tag uses a shorter syntax instead of `<hr></hr>` it is just`<hr/>`
