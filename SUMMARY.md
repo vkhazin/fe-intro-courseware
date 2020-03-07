@@ -17,7 +17,7 @@
 * [What is Html](/html-intro/whats-html.md)
 * [Lab: My First Html Page](/html-intro/lab-my-first-html-page.md)
 * [Common Tags](/html-intro/common-tags.md)
-* [Lab: Common Tags](/assets/lab-common-tags.png)
+* [Lab: Common Tags](/html-intro/lab-common-tags.md)
 * [Attributes](/html-intro/attributes.md)
 * [Lab: Attributes](/html-intro/lab-attributes.md)
 * [Summary](/html-intro/summary.md)
