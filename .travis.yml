@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "12"
+  
+script:
+  - npm install
+  - npm install gitbook-cli surge -g
+  - gitbook install
+  - gitbook build
+  - surge --domain http://fe-intro-courseware.surge.sh/ --project ./_book
