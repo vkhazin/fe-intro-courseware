@@ -20,6 +20,7 @@
 * [Lab: Common Tags](/assets/lab-common-tags.png)
 * [Attributes](/html-intro/attributes.md)
 * [Lab: Attributes](/html-intro/lab-attributes.md)
+* [Summary](/html-intro/summary.md)
 
 
 
