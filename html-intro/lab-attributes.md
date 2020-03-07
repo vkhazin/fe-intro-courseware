@@ -13,7 +13,6 @@
 * Update your Html and validate that the Wikipedia article opens in a new tab or browser window
 * Above the table with the game rules add a new element: [img](https://www.w3schools.com/tags/tag_img.asp)
 * If you were to `run` your changes now the `img` element won't display anything on its own
-* Add a new element: [img](https://www.w3schools.com/tags/tag_img.asp), if you were to run your changes the image won't display anything on its own
 * We need to add [src](https://www.w3schools.com/tags/att_src.asp) attribute to the image element in order for it to display an image
 * Add a value for the src attribute: [https://www.thecradleofhumankind.net/assets/images/donate-bg.png](https://www.thecradleofhumankind.net/assets/images/donate-bg.png)
 * Consult the syntax using online reference: [https://www.w3schools.com/tags/att\_img\_src.asp](https://www.w3schools.com/tags/att_img_src.asp)
