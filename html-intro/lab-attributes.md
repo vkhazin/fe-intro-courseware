@@ -11,7 +11,8 @@
 * Notice that the article replaces the current page, let's say we wanted to open the link in another tab or browser window
 * There is an attribute for it: [target](https://www.w3schools.com/tags/att_a_target.asp)
 * Update your Html and validate that the Wikipedia article opens in a new tab or browser window
-* Above the table with the game rules
+* Above the table with the game rules and add a new element: img
+* If you were to `run` your changes now the image won't display anything on its own
 * Add a new element: [img](https://www.w3schools.com/tags/tag_img.asp), if you were to run your changes the image won't display anything on its own
 * We need to add [src](https://www.w3schools.com/tags/att_src.asp) attribute to the image element in order for it to display an image
 * Add a value for the src attribute: [https://www.thecradleofhumankind.net/assets/images/donate-bg.png](https://www.thecradleofhumankind.net/assets/images/donate-bg.png)
