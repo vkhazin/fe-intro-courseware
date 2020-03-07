@@ -1,6 +1,7 @@
 # Lab: Attributes
 
 * Open Google Chrome browser to [https://repl.it](https://repl.it/)
+* Open the repl you have created in the previous labs
 * Select `index.html` in the Files pane
 * Find the table element and add an attribute [border](https://www.w3resource.com/html/attributes/html-border-attribute.php) to it with any width
 * Change the value for the border attribute to see how it changes the appearance of the table
