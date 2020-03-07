@@ -14,11 +14,12 @@
 * Above the table with the game rules add a new element: [img](https://www.w3schools.com/tags/tag_img.asp)
 * If you were to `run` your changes now the `img` element won't display anything on its own
 * We need to add [src](https://www.w3schools.com/tags/att_src.asp) attribute to the image element in order for it to display an image
-* Add a value for the src attribute: [https://www.thecradleofhumankind.net/assets/images/donate-bg.png](https://www.thecradleofhumankind.net/assets/images/donate-bg.png)
-* Consult the syntax using online reference: [https://www.w3schools.com/tags/att\_img\_src.asp](https://www.w3schools.com/tags/att_img_src.asp)
+* Add a URL for the src attribute: [https://www.thecradleofhumankind.net/assets/images/donate-bg.png](https://www.thecradleofhumankind.net/assets/images/donate-bg.png)
+* Consult the online reference: [https://www.w3schools.com/tags/att\_img\_src.asp](https://www.w3schools.com/tags/att_img_src.asp) for details
 * `run` your changes to confirm the image is showing as expected
-* The image likely shown left aligned
-* In order to show it in the centre of the page, we can make use of an align attribute, but img element does not really work with it
+* The image will be shown left aligned
+* In order to show it in the centre of the page, we will make use of an align attribute
+* Unfortunately, `img` element does not support the `align` attribute
 * A common solution when an element does not support the desired attribute is to place the element inside another element
 * [div](https://www.w3schools.com/tags/att_div_align.asp) element is commonly used for such purpose: add `<div>` before `img` opening tag and `</div>` after `img` closing tag
 * Add `align` attribute to the `div` element with value `center`:
@@ -29,7 +30,7 @@
   </div>
 ```
 
-* **A warning**: images as other artwork on the Internet are often protected by copyright and we cannot just "borrow" them!
+* **A warning**: images as other artwork on the Internet are often protected by [copyright](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr03719.html) and we cannot just "borrow" them!
 * **Another warning**: while it is possible to beautify Html with tables and attributes, a more common, modern approach, will be to leverage CSS as we will cover in the continuation of this course
 
 
