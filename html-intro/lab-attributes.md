@@ -22,7 +22,7 @@
 * Unfortunately, `img` element does not support the `align` attribute
 * A common solution when an element does not support the desired attribute is to place the element inside another element
 * [div](https://www.w3schools.com/tags/att_div_align.asp) element is commonly used for such purpose: add `<div>` before `img` opening tag and `</div>` after `img` closing tag
-* Add `align` attribute to the `div` element with value `center`:
+* Add `align` attribute to the `div` element with value `center`: not centre
 
 ```
   <div align="center">
