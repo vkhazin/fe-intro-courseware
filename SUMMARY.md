@@ -9,7 +9,7 @@
 * [Logistics](/course-overview/logistics.md)
 * [About you](/course-overview/about-you.md)
 
-## Course Introduction
+## Html Introduction
 
 * [Introduction](/html-intro/intro.md)
 * [World Wide Web](/html-intro/world-wide-web.md)
