@@ -1,4 +1,4 @@
-# World Wide Web
+# World Wide Web \(WWW\)
 
 [![](/assets/number-of-websites.jpg)](https://www.digitalinformationworld.com/2019/09/how-many-websites-exist-today-on-the-internet.html)
 
