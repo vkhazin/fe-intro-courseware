@@ -19,6 +19,7 @@
 * [Common Tags](/html-intro/common-tags.md)
 * [Lab: Common Tags](/html-intro/lab-common-tags.md)
 * [Attributes](/html-intro/attributes.md)
+* [Attribute Quotes](/html-intro/attribute-quotes.md)
 * [Lab: Attributes](/html-intro/lab-attributes.md)
 * [Summary](/html-intro/summary.md)
 
