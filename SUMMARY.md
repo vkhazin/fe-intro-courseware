@@ -27,6 +27,7 @@
 
 * [Introduction](/css-intro/intro.md)
 * [CSS Syntax](/css-intro/css-syntax.md)
+* [Lab: CSS Syntax](/css-intro/lab-css-syntax.md)
 
 
 
