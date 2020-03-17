@@ -12,7 +12,7 @@
 }
 ```
 
-* It is called _CSS Element Selector_: apply style to tags based on their element name
+* It is called _CSS Element Selector_: apply the style to tags based on their element name
 * This is an example of a style that will need to be referenced explicitly by Html tag:
 
 ```
@@ -34,7 +34,7 @@
 <p id="italicText">A text rendered italic</p>
 ```
 
-* There are more [CSS selectors](https://www.w3schools.com/css/css_selectors.asp), we will limit our appetite to the three above for now...
+* There are more [CSS selectors](https://www.w3schools.com/css/css_selectors.asp), we will limit our quest to the three above for now...
 
 
 
