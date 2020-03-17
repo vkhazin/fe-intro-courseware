@@ -2,38 +2,31 @@
 
 [![](/assets/css-syntax.gif)](https://www.w3schools.com/whatis/whatis_css.asp)
 
-* This is an example of the syntax to decorate `h1` Html tag and will be applied to all header-1 elements
+* Above is an example of the syntax to decorate `h1` Html tag and it will be applied to all `h1` elements
+* It is called _**CSS Element Selector**_: an instruction to apply the style to tags based on their element name
+* A different approach is to define a CSS class and to reference it explicitly
+* ```
+  CSS:
+  .centeredHeader {
+    color: green;
+    font-size: 20pxl;
+    margin: auto
+  }
 
-```
-.centeredHeader {
-  color: green;
-  font-size: 20pxl;
-  margin: auto
-}
-```
+  Html:
+  <h2 class="centeredHeader">The Cradle of Humankind</h2>
+  ```
+* It is a so-called _**CSS Class Selector**_ that applies the style on tags that specifically reference the class name
+* Another approach is a style that applies the to any element that uses attribute id equal to the style class name:
+* ```
+  CSS:
+  #italicText {
+    color: red;
+  }
 
-* It is called _CSS Element Selector_: apply the style to tags based on their element name
-* This is an example of a style that will need to be referenced explicitly by Html tag:
-
-```
-<h2 class="centeredHeader">The Cradle of Humankind</h2>
-```
-
-* It is called _CSS Class Selector:_ apply the style to tags that specifically reference the class name
-* Here is an example of a syntax that will apply the style to all elements that use attribute id equal to the style name:
-
-```
-#italicText {
-  color: red;
-}
-```
-
-* In order for this style to be applied to an Html element, it will have to add an attribute `id`:
-
-```
-<p id="italicText">A text rendered italic</p>
-```
-
+  Html:
+  <p id="italicText">A text rendered italic</p>
+  ```
 * There are more [CSS selectors](https://www.w3schools.com/css/css_selectors.asp), we will limit our quest to the three above for now...
 
 
