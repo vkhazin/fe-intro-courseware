@@ -40,5 +40,7 @@
 * Edit index.html to add the reference to the above-created class using [CSS Class Selector](https://www.w3schools.com/cssref/sel_class.asp) syntax for every second opening `<tr>` tag
 * Now figure out how to position the image horizontally-centred using an online reference without detailed instructions: [https://www.w3schools.com/howto/howto\_css\_image\_center.asp](https://www.w3schools.com/howto/howto_css_image_center.asp)
 
+![](/assets/lab-css-syntax.png)
+
 
 
