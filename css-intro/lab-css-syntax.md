@@ -17,6 +17,7 @@
       color: blue; 
       font-size: 40px;
       font-family: 'Times New Roman';
+      background-color: red;
   }
   ```
 * `run` the changes every time you make a modification to CSS/Html files
