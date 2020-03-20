@@ -27,7 +27,7 @@
   ```
 * Select `style.css` in the `Files` pane to edit
 * Use the [CSS id Selector ](https://www.w3schools.com/css/css_selectors.asp)syntax to create a style for the text: `The Cradle of Humankind`
-* Experiment with different options to achieve the desired look and feel
+* Now we want to highlight every other row in the rules table
 * Create a new class in `style.css` to highlight for a table row:
 
 ```
