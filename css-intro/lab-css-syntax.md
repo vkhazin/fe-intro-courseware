@@ -19,7 +19,7 @@
       font-family: 'Times New Roman';
   }
   ```
-* `run` the changes every time you make a modification to css/html files
+* `run` the changes every time you make a modification to CSS/Html files
 * Select index.html in the `Files` pane to edit
 * Add an id attribute to the existing Html element with `h2` tag, e.g.:
 * ```
