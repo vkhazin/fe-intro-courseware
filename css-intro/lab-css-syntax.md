@@ -23,7 +23,7 @@
 * Select index.html in the `Files` pane to edit
 * Add an id attribute to the existing Html element with `h2` tag, e.g.:
 * ```
-  <h2 id=subTitle>The Cradle of Humankind</h2>
+  <h2 id=subTitle>...</h2>
   ```
 * Select `style.css` in the `Files` pane to edit
 * Use the [CSS id Selector ](https://www.w3schools.com/css/css_selectors.asp)syntax to create a style for the text: `The Cradle of Humankind`
