@@ -17,7 +17,7 @@
   Html:
   <h2 class="centeredHeader">The Cradle of Humankind</h2>
   ```
-* It is the so-called _**CSS Class Selector**_ that applies the style on tags that specifically reference the class name
+* It is the so-called _**CSS Class Selector**_ that applies a style on Html elements referencing CSS class name
 * Another approach is a style that applies the to any element that uses attribute id equal to the style class name:
 * ```
   CSS:
