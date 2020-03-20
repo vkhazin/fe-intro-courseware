@@ -5,7 +5,7 @@
 * Syntax is an arrangement of words and characters to create well-formed sentences in a language, human or computer
 * Above is an example of the syntax to decorate `h1` Html tag and it will be applied to all `h1` elements
 * It is called _**CSS Element Selector**_: an instruction to a web browser to decorate Html elements
-* A different approach is to define a CSS class, a set of appearance features and to reference it explicitly
+* A different approach is to define a CSS class, a set of design features and to reference it explicitly
 * ```
   CSS:
   .centeredHeader {
