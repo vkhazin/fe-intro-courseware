@@ -5,10 +5,11 @@
 * Select `index.html` in the `Files` pane to edit it
 * Locate the table element and remove the border attribute with its value
 * Locate the div element and remove the `align` attribute with its values 
-* Between the opening and closing tags for head element, insert a reference to the stylesheet file:
+* Between the opening and closing tags for head element, insert a reference to the stylesheet file by coping the line below:
 * ```
   <link rel="stylesheet" type="text/css" href="style.css"/>
   ```
+* This will allow a web browser to use the styles defined in the `style.css` file and decorate `index.html` content
 * Select `style.css` in the `Files` pane to edit
 * Add a style to format `h1` element with your desired colour and a font-size or font-family, e.g.:
 * ```
@@ -41,6 +42,4 @@
 * Now figure out how to position the image horizontally-centred using an online reference without detailed instructions: [https://www.w3schools.com/howto/howto\_css\_image\_center.asp](https://www.w3schools.com/howto/howto_css_image_center.asp)
 
 ![](/assets/lab-css-syntax.png)
-
-
 
