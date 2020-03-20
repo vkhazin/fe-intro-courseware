@@ -21,7 +21,7 @@
   ```
 * `run` the changes every time you make a modification to css/html files
 * Select index.html in the `Files` pane to edit
-* Add an id attribute to the Html element with `h2` tag, e.g.:
+* Add an id attribute to the existing Html element with `h2` tag, e.g.:
 * ```
   <h2 id=subTitle>The Cradle of Humankind</h2>
   ```
