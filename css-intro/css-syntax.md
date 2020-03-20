@@ -2,8 +2,9 @@
 
 [![](/assets/css-syntax.gif)](https://www.w3schools.com/whatis/whatis_css.asp)
 
+* Syntax is an arrangement of words and characters to create well-formed sentences in a language, human or computer
 * Above is an example of the syntax to decorate `h1` Html tag and it will be applied to all `h1` elements
-* It is called _**CSS Element Selector**_: an instruction to apply the style to tags based on their element name
+* It is called _**CSS Element Selector**_: an instruction to a web browser to decorate Html elements
 * A different approach is to define a CSS class and to reference it explicitly
 * ```
   CSS:
@@ -27,7 +28,7 @@
   Html:
   <p id="italicText">A text rendered italic</p>
   ```
-* This is the so-called _**CSS id Selector **_that applies the style based on the `id` attribute value
+* This is the so-called \_**CSS id Selector **\_that applies the style based on the `id` attribute value
 * There are more [CSS selectors](https://www.w3schools.com/css/css_selectors.asp), we will limit our quest to the three above for now...
 
 
