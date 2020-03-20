@@ -19,7 +19,6 @@
       font-family: 'Times New Roman';
   }
   ```
-* Explorer what other style elements you can make work: [https://www.w3schools.com/cssref/](https://www.w3schools.com/cssref/), not everything will work as expected
 * `run` the changes every time you make a modification to css/html files
 * Select index.html in the `Files` pane to edit
 * Add an id attribute to the Html element you have surrounded the text `The Cradle of Humankind` with e.g.:
