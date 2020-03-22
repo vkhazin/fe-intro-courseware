@@ -28,6 +28,14 @@
 * [Introduction](/css-intro/intro.md)
 * [CSS Syntax](/css-intro/css-syntax.md)
 * [Lab: CSS Syntax](/css-intro/lab-css-syntax.md)
+* Summary
+
+## JavaScript Introduction
+
+* [Introduction](/javascript-intro/intro.md)
+* [Summary](/javascript-intro/intro.md)
+
+
 
 
 
