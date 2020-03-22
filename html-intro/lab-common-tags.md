@@ -9,5 +9,5 @@
 * You can also open your website in a new tab using the up-right pointing arrow on the right pane 
 * The objective of the lab is to get the same, or as close as possible, look and feel of the webpage below
 
-![](/assets/lab-common-tags.png)
+![](/assets/lab-common-tags-tasks.png)
 
