@@ -35,6 +35,7 @@
 * [Introduction](/javascript-intro/intro.md)
 * [What's a Program](/javascript-intro/whats-program.md)
 * [What's a Programming Language](/javascript-intro/whats-programming-lang.md)
+* Statements
 * [Summary](/javascript-intro/intro.md)
 
 

@@ -1,9 +1,10 @@
 # What is a Programming Language
 
 * Similarly to a human written language: a vocabulary and a set of rules to write instructions to a computer
+* A programming language comes with its ready-to-use components, kind-of a pencil case with pencils, pens and an eraser
 * Most programming languages are textual; they use sequences of text including words, numbers, and punctuation
 * Learning a programming language is memorizing the vocabulary and practicing the rules 
-* Programmer proficiency is the ability of a human to communicate her/his intentions to a computer
+* Programmer proficiency is the ability to communicate intentions to a computer
 * A few, if any, humans know all the words and grammar rules in a given human language
 * A few programmers know all aspects of a programming language
 * Not too many programmers use just one programming language through their lifetime
