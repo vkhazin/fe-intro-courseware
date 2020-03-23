@@ -11,6 +11,6 @@
 * In case of multiple statements on the same line semicolon is required: 
 * `console.log('Hello'); console.log(' '); console.log('World'); console.log('!');`
 * Above will execute 4 statements from one line of code from JavaScript perspective
-
+* 
 
 
