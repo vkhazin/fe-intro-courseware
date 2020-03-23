@@ -18,9 +18,13 @@
   ```
 * But not the other way around, an ERROR will be reported about undeclared/unknown variable `message`:
 * ```
-  console.log(message);
-  let message;
-  message = 'Hello Worlds';
+  console.log(message); <-- ReferenceError: message is not defined
+  let message = 'Hello World';
+  ```
+* Variables declared with const instead of let cannot change their value:
+* ```
+  const message = 'Hello World';
+  message = 'I am Groot'; <-- TypeError: Assignment to constant variable.
   ```
 
 
