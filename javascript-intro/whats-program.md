@@ -1,4 +1,4 @@
-# What's a Program
+# What's a Program?
 
 ![](/assets/computer-program.png)
 
