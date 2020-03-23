@@ -37,6 +37,7 @@
 * [What's a Programming Language](/javascript-intro/whats-programming-lang.md)
 * [Statements](/javascript-intro/statements.md)
 * [Variables](/javascript-intro/variables.md)
+* [Lab: JavaScript First Script](/javascript-intro/lab-js-first-script.md)
 * [Summary](/javascript-intro/intro.md)
 
 
