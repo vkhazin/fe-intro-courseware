@@ -4,26 +4,23 @@
 * With the most simple statement such as `1 + 1` the result of the addition needs to be stored somewhere
 * To create a variable in modern JavaScript we use a `let` keyword e.g.:  `let message = 'Hello World';`
 * Previous versions of JavaScript used `var` keyword e.g.:  `var message = 'Hello World';`
-* When searching online for examples you will find both syntaxes and both work in the most recent version of JavaScript
 * Above is the short syntax where the variable is defined \(or declared\) and assigned a value in the same statement
 * A longer syntax will use two statements:
 * ```
   let message;
   message = 'Hello Worlds';
   ```
-* Variable can be used in statements, e.g.: 
+* Variable can be used in statements that follow the declaration of the variable, e.g.: 
 * ```
   let message;
   message = 'Hello Worlds';
   console.log(message);
   ```
-* And can be used to compute values:
+* But not the other way around, an ERROR will be reported about undeclared/unknown variable `message`:
 * ```
-  let value1 = 1;
-  let value2 = 10;
-  let value3 = value1 * value2 - 1;
-  let value4 = value3 * (value1 - 1);
-  console.log(value3);console.log(value4);
+  console.log(message);
+  let message;
+  message = 'Hello Worlds';
   ```
 
 
