@@ -38,6 +38,7 @@
 * [Statements](/javascript-intro/statements.md)
 * [Variables](/javascript-intro/variables.md)
 * [Lab: First Script](/javascript-intro/lab-first-script.md)
+* [Data Types](/javascript-intro/data-types.md)
 * [Summary](/javascript-intro/intro.md)
 
 
