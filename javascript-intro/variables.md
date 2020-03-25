@@ -13,7 +13,7 @@
 * Variable can be used in statements that follow the declaration of the variable, e.g.: 
 * ```
   let message;
-  message = 'Hello Worlds';
+  message = 'Hello World';
   console.log(message);
   ```
 * But not the other way around, an ERROR will be reported about undeclared/unknown variable `message`:
@@ -21,7 +21,7 @@
   console.log(message); <-- ReferenceError: message is not defined
   let message = 'Hello World';
   ```
-* Variables declared with const instead of let cannot change their value:
+* Variables declared with `const` instead of `let` cannot change their value:
 * ```
   const message = 'Hello World';
   message = 'I am Groot'; <-- TypeError: Assignment to constant variable.

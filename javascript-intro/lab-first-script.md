@@ -5,7 +5,7 @@
 * In the middle pane, you will be writing JavaScript code
 * The `run` button on the top will execute your JavaScript
 * On the left pane, you will see the result of code execution
-* In middle pane declare variables:
+* In middle pane declare two variables named `message1` and `message2`:
 * ```
   let message1;
   let message2;
@@ -22,7 +22,7 @@
   ```
 * `run` the code and see the results in the left pane
 * When you see an error instead of the results double check your syntax, no spaces in variable names, missing opening/closing quotes, a mismatch between single and double quotes are the common cases
-* Variables can be assigned a new value as well:
+* Variables can be assigned a new value as well unless they have been declared as `const`:
 * ```
   let message = 'Hello World';
   console.log(message);
@@ -39,6 +39,9 @@
 * Name a variable `1value` and see what happens
 * Name a variable `my value` and see what error you get
 * Misspell a variable name when referencing it: `let value1 = 1; console.log(value2);`
+* What's a variable?
+* How do you use a variable?
+* What is a statement and how is it different from a variable?
 
 
 
