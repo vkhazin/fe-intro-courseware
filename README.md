@@ -55,3 +55,21 @@ At the end of the course, you will be able to:
 * What is Html
 * Common Tags
 * Attributes
+
+### CSS Introduction
+
+* CSS vs. Html
+* CSS Syntax
+* CSS Selector
+* Styling Html
+
+### JavaScript Introduction
+
+* What's a Program
+* What's a Language
+* Statements
+* Variables
+* Data Types
+
+
+
