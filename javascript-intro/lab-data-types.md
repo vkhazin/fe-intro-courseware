@@ -75,15 +75,17 @@
     console.log(tasks);
     ```
 30. Execute the statements with `run` button
-31. To print one object out of the array, add the following statement:
-32. ```
+31. Now create a new array of tasks with 4 different forthcoming tests, with a name, a due date, and a status
+32. Print to the console details of the task \#3
+33. To print one object out of the array, add the following statement:
+34. ```
     console.log(tasks[0]);
     ```
-33. Execute the statements with `run` button
-34. The JavaScript syntax used here: tasks\[0\] is extracting the first member or element of the array
-35. Arrays count its  members from 0 rather than from 1
-36. Try extracting or accessing the non-existing element of the array: `console.log(tasks[2]);` and `run` the changes
-37. What result did you get and why?
+35. Execute the statements with `run` button
+36. The JavaScript syntax used here: tasks\[0\] is extracting the first member or element of the array
+37. Arrays count its  members from 0 rather than from 1
+38. Try extracting or accessing the non-existing element of the array: `console.log(tasks[2]);` and `run` the changes
+39. What result did you get and why?
 
 
 
