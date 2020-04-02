@@ -38,11 +38,11 @@
 20. Clear the script pane from the previous statements and create a JavaScript object and try assigning a new value to it:
 21. ```
     const task = {
-        name: 'Math Test'
+        name: 'Math Test',
         dueDate: '2020-06-01'
     };
     task = {
-        name: 'Science Test'
+        name: 'Science Test',
         dueDate: '2020-06-01'
     };
     console.log(task);
@@ -52,7 +52,7 @@
 24. Let's try another example:
 25. ```
     const task = {
-        name: 'Science Test'
+        name: 'Science Test',
         dueDate: '2020-06-01'
     };
     task.dueDate = '2021-06-01';
