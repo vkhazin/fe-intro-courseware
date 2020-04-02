@@ -1,6 +1,6 @@
 # Special Data Types
 
-**Undefined** is a variable that was declared but not assigned a value, e.g.:
+**Undefined** is a variable declared, but not assigned a value, e.g.:
 
 ![](/assets/undefined.png)
 

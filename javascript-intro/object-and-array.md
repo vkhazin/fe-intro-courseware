@@ -13,7 +13,7 @@ task = {
 ```
 
 * An array is a type of object used for storing multiple values in a single variable, e.g.: `let numbers = [1, 2, 3, 4];`
-* An array can also be empty and store a list of objects:
+* An array can also be empty or store a list of objects:
 
 ```
 let tasks = []; //An empty array
