@@ -16,5 +16,5 @@ if ((i > 1) && (i < 3)) {
 | - | - | - | 
 | && | And | True when both are true: `a && b` |
 | \|\| | Or | True if either or both `a` or `b` is true: `a || b` |
-| ! |Not | True if `a` is not true: `!a` |
+| ! | Not | True if `a` is not true: `!a` |
 
