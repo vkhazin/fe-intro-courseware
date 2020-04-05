@@ -44,6 +44,9 @@
 * [Lab: Data Types](/javascript-intro/lab-data-types.md)
 * [Operators](/javascript-intro/operators.md)
 * [Increment & Decrement](/javascript-intro/increment-decrement.md)
+* [Comparison Operators](/javascript/comparison.md)
+* [If...Else Statements](/javascript/if-else-statements.md)
+* [Logical Operators](/javascript/logical.md)
 * [Summary](/javascript-intro/intro.md)
 
 
