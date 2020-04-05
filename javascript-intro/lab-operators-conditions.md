@@ -25,10 +25,10 @@ const lastName = 'Smith';
 ```
 * Declare a new variable and use string [concatenation assignment](https://docs.onux.com/en-US/Developers/JavaScript-PP/Language/Reference/Expressions/assignment-operators/concatenation) to assign value to it
 * Print the result of operation using `console.log()` statement
+* Modify your code to multiple or to divide two strings or string variables e.g.: `console.log('John' * 'Smith');`
 * After you have validated the outcome, remove all your statements to start anew
 * Declare new variable and assign a numeric value to it
 * Declare a third variable and assign a result of increment by 1 using the [pre-increment operator](https://www.tutorialgateway.org/increment-and-decrement-operators-in-javascript/)
 * Write an `if` statement to check whether the result of increment is greater than or equal to a value of 10
 * Inside the parenthesis write a statement to print out the value using `console.log()` statement
 * How do you change the value to get the statement to print out or to be silent?
-
