@@ -42,6 +42,8 @@
 * [Special Data Types](/javascript-intro/special-data-types.md)
 * [Object & Array](/javascript-intro/object-and-array.md)
 * [Lab: Data Types](/javascript-intro/lab-data-types.md)
+* [Operators](/javascript-intro/operators.md)
+* [Increment & Decrement](/javascript-intro/increment-decrement.md)
 * [Summary](/javascript-intro/intro.md)
 
 
