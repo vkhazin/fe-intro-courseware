@@ -46,7 +46,7 @@
 * [Increment & Decrement](/javascript-intro/increment-decrement.md)
 * [Comparison Operators](/javascript-intro/comparison.md)
 * [If...Else Statements](/javascript-intro/if-else-statements.md)
-* [Lab: Operators and Conditions](/javascript-intro/operators-conditions.md)
+* [Lab: Operators and Conditions](/javascript-intro/lab-operators-conditions.md)
 * [Logical Operators](/javascript-intro/logical.md)
 * [Summary](/javascript-intro/intro.md)
 
