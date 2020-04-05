@@ -1,6 +1,6 @@
 # Increment & Decrement
 
-[![](/assets/post-vs-pre.png)](https://www.incusdata.co.za/blog/programming/pre-increment-vs-post-increment-operator-in-loops/)
+![](/assets/increment.png)
 
 | Operator | Description | Example |
 | - | - | - |
