@@ -23,9 +23,6 @@
 
 * Update your Html and validate that the Wikipedia article opens in a new tab or browser window
 
-* Above the table with the tasks add a new element: [input](https://www.w3schools.com/tags/tag_img.asp)
-
-   <input  type="button"  value="Add Task" />
 
 *  `run` your changes to confirm the button is showing as expected
   

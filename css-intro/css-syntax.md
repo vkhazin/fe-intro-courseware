@@ -1,35 +1,70 @@
-# CSS Syntax
 
+# CSS Syntax
+  
 [![](/assets/css-syntax.gif)](https://www.w3schools.com/whatis/whatis_css.asp)
 
-* Syntax is an arrangement of words and characters to create well-formed sentences in a language, human or computer
-* Above is an example of the syntax to decorate `h1` Html tag and it will be applied to all `h1` elements
-* This is called _**CSS Element Selector**_: an instruction to a web browser to decorate Html elements
-* A different approach is to define a CSS class, a set of design features and to reference it explicitly
-* ```
-  CSS:
-  .centeredHeader {
-    color: green;
-    font-size: 20pxl;
-    margin: auto
-  }
+ Syntax is an arrangement of words and characters to create well-formed sentences in a language, human or computer
 
-  Html:
-  <h2 class="centeredHeader">The Cradle of Humankind</h2>
-  ```
-* This is _**CSS Class Selector**_ that applies a style on Html elements referencing CSS class name
-* Another approach is a style that applies to an element with attribute `id` equal to the style class name:
-* ```
-  CSS:
-  #italicText {
-    color: red;
-  }
+In CSS we use _**CSS Element Selector**_ to "find" (or select) the HTML elements you want to style.
 
-  Html:
-  <p id="italicText">A text rendered italic</p>
-  ```
-* This is called **CSS id Selector **that applies the style based on the `id` attribute value
-* There are more [CSS selectors](https://www.w3schools.com/css/css_selectors.asp), we will limit our quest to the three above for now...
+**We can divide CSS selectors into five categories:**
 
+ - Simple selectors (select elements based on name, id, class)
+   
+   Combinator selectors (select elements based on a specific
+   relationship between them)
+   
+   Pseudo-class selectors (select elements based on a certain state)
+   
+   Pseudo-elements selectors (select and style a part of an element)
+   
+   Attribute selectors (select elements based on an attribute or
+   attribute value)
 
+This page will explain the most basic CSS selectors.
 
+**The element selector selects HTML elements based on the element name/tag.**
+
+	h1 {
+
+	text-align: center;
+
+	color: red;
+
+	}
+
+  **The CSS id Selector**
+
+  The id selector uses the id attribute of an HTML element to select a specific element.
+
+  The id of an element is unique within a page, so the id selector is used to select one unique element!
+
+ To select an element with a specific id, write a hash (#) character, followed by the id of the element.
+
+***CSS***
+	#my-title{
+
+	text-align: center;
+
+	color: red;
+
+	}
+
+***HTML***
+	
+	<h1 id="my-title">My Tasks</h1>
+	
+**strong text**The CSS class Selector
+
+In this example all HTML elements with class="center" will be red and center-aligned:
+
+***CSS***
+
+	.my-title {
+			text-align: center;
+			color: red;
+	}
+
+***Html***:
+
+	<h1 class="my-title">My Tasks</h1>
