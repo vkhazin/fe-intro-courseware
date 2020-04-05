@@ -1,6 +1,6 @@
 # Operators
 
-* Symbols or keywords for the JavaScript engine to perform some sort of actions
+### Symbols or keywords for the JavaScript engine to perform some sort of actions
 
 | Operator | Description | Example |
 | - | - | - |
@@ -12,9 +12,11 @@
 | += | Add and assign | `let a = 1; a += 1` |
 | -= | Subtract and assign | `let a = 1; a -= 1` |
 
-* String operators
+### String operators
 
 | Operator | Description | Example |
 | - | - | - |
 | + | Concatenation | `let a = 'Hello'; let b = 'World'; const c = a + ' ' + b + '!';` |
 | + | Concatenation assignment | `let a = 'Hello'; a += ' World!';`|
+
+### Here is the full list of [operators](https://www.w3schools.com/jsref/jsref_operators.asp)
