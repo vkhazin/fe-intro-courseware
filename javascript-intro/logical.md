@@ -10,10 +10,7 @@ if ((i > 1) && (i < 3)) {
 }
 ```
 * List of JavaScript logical operators:
-
-| Operator | Description | Example |
-| - | - | - | 
-| && | And | True when both are true: `a && b` |
-| \|\| | Or | True if either or both `a` or `b` is true: `a \|\| b` |
-| ! | Not | True if `a` is not true: `!a` |
+* `&&` logical and, true when both are true: `a && b`
+* `||` logical or, true if either or both `a` or `b` is true: `a || b` 
+* `!` logical not, true, if it is not true: `!a`
 
