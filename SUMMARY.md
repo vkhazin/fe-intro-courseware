@@ -49,4 +49,5 @@
 * [Lab: Operators and Conditions](/javascript-intro/lab-operators-conditions.md)
 * [Logical Operators](/javascript-intro/logical.md)
 * [Loops](/javascript-intro/loops.md)
+* [while & do...while](/javascript-intro/while-do-while.md)
 * [Summary](/javascript-intro/intro.md)
