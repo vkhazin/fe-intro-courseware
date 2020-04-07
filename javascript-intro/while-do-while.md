@@ -24,3 +24,4 @@ do {
 }
 while (i < 5);
 ```
+* There are a couple more of [loop options](https://www.tutorialrepublic.com/javascript-tutorial/javascript-loops.php) in JavaScript

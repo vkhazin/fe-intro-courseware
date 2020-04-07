@@ -4,7 +4,7 @@
 2. Create a new repl and select JavaScript template, name it `lab-js-data-types`
 3. In the middle pane, you will be writing JavaScript code
 4. The `run` button on the top will execute your JavaScript
-5. On the left pane, you will see the result of code execution
+5. In the right pane, you will see the result of code execution
 6. Declare two variables:
 7. ```
    let num1;

@@ -4,7 +4,7 @@
 * Create a new repl and select JavaScript template, name it `lab-js-first-script`
 * In the middle pane, you will be writing JavaScript code
 * The `run` button on the top will execute your JavaScript
-* On the left pane, you will see the result of code execution
+* In the right pane, you will see the result of code execution
 * In middle pane declare two variables named `message1` and `message2`:
 * ```
   let message1;

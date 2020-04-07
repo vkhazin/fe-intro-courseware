@@ -4,7 +4,7 @@
 * Create a new repl and select JavaScript template, name it `lab-js-ops-conditions`
 * In the middle pane, you will be writing JavaScript code
 * The `run` button on the top will execute your JavaScript
-* On the left pane, you will see the result of code execution
+* In the right pane, you will see the result of code execution
 * Declare two variables with any valid names, there are [rules](https://www.dummies.com/web-design-development/javascript/naming-javascript-variables/) how to name variables
 * Assign two numeric values to the two variables, e.g.:
 ```
