@@ -48,7 +48,5 @@
 * [If...Else Statements](/javascript-intro/if-else-statements.md)
 * [Lab: Operators and Conditions](/javascript-intro/lab-operators-conditions.md)
 * [Logical Operators](/javascript-intro/logical.md)
+* [Loops](/javascript-intro/loops.md)
 * [Summary](/javascript-intro/intro.md)
-
-
-
