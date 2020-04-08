@@ -1,4 +1,4 @@
-# Objectives: What will I learn?
+# Objectives
 
 * Build a website with various pages
 * Style appearance of the Html using CSS
@@ -8,6 +8,4 @@
 * Write functions using JavaScript
 * Define variables and constants
 * Understand the flow of a program
-
-
 

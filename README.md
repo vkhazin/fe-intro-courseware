@@ -1,4 +1,4 @@
-# Introduction to Front-End Programming
+# Introduction
 
 ## Overview and Objectives
 
@@ -70,6 +70,4 @@ At the end of the course, you will be able to:
 * Statements
 * Variables
 * Data Types
-
-
 
