@@ -17,3 +17,4 @@ console.log(person);
 console.log(person.firstName);
 person.displayName();
 ```
+* Psst: `console` is an object as well, part of the JavaScript language
