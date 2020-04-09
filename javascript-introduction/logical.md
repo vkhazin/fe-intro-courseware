@@ -5,10 +5,15 @@
 * In JavaScript you would express the same statement as two conditions combined:
 
 ```text
-let a = 2;                        // Declare a variable and assign a value
-if ((a > 1) && (a < 3)) {         // Evaluate two conditions using 'and' criteria
-  console.log('I am doing ok!');  // When condition resolves to true, print out a message
-}                                 // End of the conditional statements
+// Declare a variable and assign a value
+let a = 2;               
+
+// Evaluate two conditions using 'and' criteria         
+if ((a > 1) && (a < 3)) {
+  console.log('I am doing ok!');
+}
+// The statement below is not subject to the condition
+console.log('I have $' + a);
 ```
 
 ## Full list of logical operators

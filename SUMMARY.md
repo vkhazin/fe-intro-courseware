@@ -53,5 +53,6 @@
 * [Loops](javascript-introduction/loops.md)
 * [while & do...while](javascript-introduction/while-do-while.md)
 * [Lab: Conditions & Loops](javascript-introduction/lab-conditions-loops.md)
+* [Functions](javascript-introduction/functions.md)
 * [Summary](javascript-introduction/intro-1.md)
 
