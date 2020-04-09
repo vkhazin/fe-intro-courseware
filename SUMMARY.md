@@ -55,5 +55,6 @@
 * [Lab: Conditions & Loops](javascript-introduction/lab-conditions-loops.md)
 * [Functions](javascript-introduction/functions.md)
 * [Object](javascript-introduction/object.md)
+* [Lab: Functions & Objects](javascript-introduction/lab-functions-objects.md)
 * [Summary](javascript-introduction/intro-1.md)
 

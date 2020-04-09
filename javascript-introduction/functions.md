@@ -7,9 +7,10 @@
 * Makes easier to eliminate errors and to modify code
 * `addNumbers` is a name of the function
 * `a, b` are parameters or arguments passed when calling the function
+* `return` is a special word returning a value to a caller of the function
 * Function statements are surrounded by `{` and `}` 
 * Calling the function uses the following syntax: `addNumbers(1, 2);`
-* We write functions once and reuse it twice from the example above
+* We write functions once and we reuse it twice from the example above
 
 
 
