@@ -10,9 +10,9 @@ let value1 = 1;
 let value2 = 2;
 
 if (value1 < value2) { 
-  console.log('value1 is less than value2); 
-  console.log('value1: ' + value1); 
-  console.log('value2: ' + value2); 
+  console.log('value1 is less than value2'); 
+} else {
+  console.log('value1 is not less than value2'); 
 }
 
 console.log('Done evaluating the condition');
