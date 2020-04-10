@@ -8,7 +8,7 @@
 6. This lab will not provide detailed instructions instead there are links to documentation and online reference to learn from
 7. No programmer can succeed without getting used to looking for documentation and examples online 
 8. In the code pane declare a variable with any legal name and assign a numeric value to it
-9. Use `if` statement to compare the value of the variable to a number of your choosing
+9. Use `if` statement to compare the value of a variable to a number of your choosing
 10. When the value is greater than the variable's value print out, using `console.log`, the following text: 'the number is greater than the variable value'
 11. Otherwise print 'the value is not greater than the variable value', you will need to learn how to use [else](https://www.tutorialrepublic.com/javascript-tutorial/javascript-if-else-statements.php) statement to achieve the desired behaviour we did not know before as it frequently happens when you program
 12. Use `run` button to execute your code and resolve issues, if any, reported
@@ -20,5 +20,5 @@
 18. Once verified the results, clear the `for` loop
 19. Re-create the loop with `while` loop to achieve the same result
 20. Then re-create the loop with `do...while` loops to the achieve the same result
-21. How the behaviout of `while` loop different from `do..while` loop
+21. How the behaviour of `while` loop different from `do..while` loop
 

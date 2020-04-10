@@ -1,6 +1,6 @@
 # Functions
 
-![](../assets/function.png)
+![](../.gitbook/assets/function.png)
 
 * A function is a group of statements for a specific task, e.g. adding two numbers
 * Provides a way to create reusable code blocks
@@ -11,6 +11,4 @@
 * Function statements are surrounded by `{` and `}` 
 * Calling the function uses the following syntax: `addNumbers(1, 2);`
 * We write functions once and we reuse it twice from the example above
-
-
 
