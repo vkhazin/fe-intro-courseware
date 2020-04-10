@@ -36,7 +36,7 @@
 18. Execute the statements with `run` button
 19. How do you explain the result?
 20. Clear the script pane from the previous statements and create a JavaScript object and try assigning a new value to it:
-21. ```text
+21. ```javascript
     const task = {
         name: 'Math Test',
         dueDate: '2020-06-01'
@@ -50,7 +50,7 @@
 22. Execute the statements with `run` button
 23. How do you fix the error?
 24. Let's try another example:
-25. ```text
+25. ```javascript
     const task = {
         name: 'Science Test',
         dueDate: '2020-06-01'
@@ -61,7 +61,7 @@
 26. Execute the statements with `run` button
 27. Why we were able to assign a new value to the `dueDate` field when the `task` variable was declared with a `const`?
 28. Clear the script pane from the previous statements and create a JavaScript array:
-29. ```text
+29. ```javascript
     const tasks = [
       {
         name: 'Science Test',
@@ -78,7 +78,7 @@
 31. Now create a new array of tasks with 4 different forthcoming tests, with a name, a due date, and a status
 32. Print to the console details of the task \#3
 33. To print one object out of the array, add the following statement:
-34. ```text
+34. ```javascript
     console.log(tasks[0]);
     ```
 35. Execute the statements with `run` button

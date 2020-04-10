@@ -5,17 +5,17 @@
 * Almost everything is an object or acts like an object
 * An object is created with curly brackets `{}`, list of properties, and/or functions
 ```
-let person = {
-  firstName: 'John',
-  lastName: 'Smith',
-  dob: '1900-01-01',
+const task = {
+  name: 'Math Test',
+  dueDate: '2020-06-01',
   displayName: function() {
-    return this.firstName + ' ' + this.lastName + ' (' + this.dob + ')');
-  }
+    return this.name + ' (' + this.dueDate + ')';
+  }    
 };
-console.log(person);
-console.log(person.firstName);
-person.displayName();
+
+console.log(task);                // will print the complete task object
+console.log(task.name);           // will print task name
+console.log(task.displayName());  // will print output of function displayName
 ```
-* `this` references the object itself and `this.firstName` references `firstName` of the current object
-* Psst: `console` is an object as well, part of the JavaScript language
+* `this` references the object itself and `this.name` references `dueDate` of the current object
+* Psst: `console` is an object as well, part of the JavaScript language itself
