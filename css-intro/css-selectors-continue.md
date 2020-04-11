@@ -19,7 +19,6 @@ CSS selector can contain more than one simple selector. Between the simple selec
 
 There are four different combinators in CSS:
   
-
 - descendant selector (space)
 
 - child selector (>)
@@ -32,17 +31,13 @@ There are four different combinators in CSS:
 
 Today we discuss descendat and child selector as more popular selectors.
   
-
 **Descendant selector (space)**
 
-The following example selects all <p> elements that placed inside of a <div> element:
+The following example selects all **p** elements that placed inside of a <div> element:
 
 	div p {
-
 	background-color: yellow;
-
 	}
-
 	<div>
 		<p>Paragraph 1.</p>
 	</div>
@@ -53,11 +48,10 @@ The following example selects all <p> elements that placed inside of a <div> ele
 	</div>
 	<p>Paragraph 4.</p> <!-- not in div -->
 
-![](/assets/css-selector-example1.png)
+![](/assets/css-selector-example1.png) 
 
 **Child selector >**
-
-The following example selects all <p> elements that are children of a **div** element:
+The following example selects all **p** elements that are children of a **div** element 
 
 	<div>
 		<p>Paragraph 1 in the div.</p>
