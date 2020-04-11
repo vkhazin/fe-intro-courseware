@@ -1,65 +1,64 @@
-  
-
-# CSS Selectors - Continue
 
   
 
-In the slide before we discussed Simple selectors based on name, id and class to style elements in a HTML document.
+# CSS Pseudo Classes
 
-The next group of selector are called combinator selectors
-
-
-**Combinator selectors**
-
-A **combinator** is something that explains the relationship between the selectors.
- 
-
-CSS selector can contain more than one simple selector. Between the simple selectors, we can include a combinator.
- 
-
-There are four different combinators in CSS:
-  
-- descendant selector (space)
-
-- child selector (>)
-
-- adjacent sibling selector (+)
-
-- general sibling selector (~)
+A pseudo-class is defines a state of an element.
 
   
+Example:
 
-Today we discuss descendat and child selector as more popular selectors.
-  
-**Descendant selector (space)**
+- Style of an element when user mouse over
 
-The following example selects all **p** elements that placed inside of a <div> element:
+- Style of an element when it gets focus
 
-	div p {
-	background-color: yellow;
+- Style of an element when link is visisted
+
+In CSS the sytax for the pseudo class defined as
+
+	selector : pseudo-class {
+	...
 	}
-	<div>
-		<p>Paragraph 1.</p>
-	</div>
-	<div>
-		<p>Paragraph 2.</p>
-	</div>
-		<p>Paragraph 3.</p>
-	</div>
-	<p>Paragraph 4.</p> <!-- not in div -->
 
-![](/assets/css-selector-example1.png) 
+**Hover**
 
-**Child selector >**
-The following example selects all **p** elements that are children of a **div** element 
+In the example below when you hover over the link it will change color,
+  
+	a:hover {
+		color: red
+	}
 
-	<div>
-		<p>Paragraph 1 in the div.</p>
-		<p>Paragraph 2 in the div.</p>
-		<section><p>Paragraph 3 in the div.</p></section> 
-		<p>Paragraph 4 in the div.</p>
-	</div>
-	<p>Paragraph 5. Not in a div.</p>
-	<p>Paragraph 6. Not in a div.</p>
+In the second example peseudo class will be applied to all elements with class="mytitle"
 
-![](/assets/css-selector-example2.png)
+	.mytitle:hover {
+		color: red
+	}
+
+Using pseudo classes links can be displayed in a different ways
+  
+	/* visited link */  
+	a:visited {  
+		color:  #00FF00;  
+	}  
+  
+	/* mouse over link */  
+	a:hover {  
+		color:  #FF00FF;  
+	}
+
+# CSS Display property
+
+Display property is one of the exciting properties of CSS it specifies display behavior of an element
+The code below will hide H1 element on the page
+
+	h1 {
+		display: none
+	}
+
+The code above will display `<div>` on a new line like a `<p>` elements
+
+	div {
+	  display: block
+	}
+
+
