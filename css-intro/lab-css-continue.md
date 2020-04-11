@@ -1,70 +1,33 @@
 
-# CSS Syntax
-  
-[![](/assets/css-syntax.gif)](https://www.w3schools.com/whatis/whatis_css.asp)
+# Lab: CSS Continue
 
- Syntax is an arrangement of words and characters to create well-formed sentences in a language, human or computer
+Open Google Chrome browser to [https://repl.it](https://repl.it/)
 
-In CSS we use _**CSS Element Selector**_ to "find" (or select) the HTML elements you want to style.
+Open the repl you have created in the previous labs
 
-**We can divide CSS selectors into five categories:**
+Select `index.html` in the `Files` pane to edit it
 
- - Simple selectors (select elements based on name, id, class)
-   
-   Combinator selectors (select elements based on a specific
-   relationship between them)
-   
-   Pseudo-class selectors (select elements based on a certain state)
-   
-   Pseudo-elements selectors (select and style a part of an element)
-   
-   Attribute selectors (select elements based on an attribute or
-   attribute value)
+Add Student name, Grade and School name information to your index.html  after My Tasks element
+Add HTML snippet below to your index.html after 
 
-This page will explain the most basic CSS selectors.
+	<div>
+	<p>Student: John Smith</p>
+	<p>Grade: 10</p>
+	<p>School: Stephen Lewis Secondary School</p>
+	</div>
 
-**The element selector selects HTML elements based on the element name/tag.**
+Using CSS  descendant selector to apply style as on the picture below
 
-	h1 {
+![](/assets/lab-css-continue1.png)
 
-	text-align: center;
+Select `style.css` in the `Files` pane to edit
 
-	color: red;
+Add hover effect to the tasks table rows 
 
+	tr:hover {
+		text-decoration:  underline;
+		background-color:  #E1F5FA
 	}
+`run` the changes every time you make a modification to CSS/Html files
 
-  **The CSS id Selector**
-
-  The id selector uses the id attribute of an HTML element to select a specific element.
-
-  The id of an element is unique within a page, so the id selector is used to select one unique element!
-
- To select an element with a specific id, write a hash (#) character, followed by the id of the element.
-
-***CSS***
-	#my-title{
-
-	text-align: center;
-
-	color: red;
-
-	}
-
-***HTML***
-	
-	<h1 id="my-title">My Tasks</h1>
-	
-**strong text**The CSS class Selector
-
-In this example all HTML elements with class="center" will be red and center-aligned:
-
-***CSS***
-
-	.my-title {
-			text-align: center;
-			color: red;
-	}
-
-***Html***:
-
-	<h1 class="my-title">My Tasks</h1>
+Try  to style your mouse cursor when user hover over the row ([https://www.w3schools.com/cssref/pr_class_cursor.asp](https://www.w3schools.com/cssref/pr_class_cursor.asp))
