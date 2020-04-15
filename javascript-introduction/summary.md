@@ -9,3 +9,4 @@
 * What type of loops did we use?
 * What's the difference between `while` and `do...while` loop structure?
 * How do loop through every element of an array?
+
