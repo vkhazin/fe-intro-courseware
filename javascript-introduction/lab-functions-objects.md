@@ -18,8 +18,8 @@
     dueDate
     ```
 
-13. Add a function to the created object to return `{name} ({dueDate})` string when called
-14. Make a call the created function and print the result using `console.log`
+13. Add a function to the newly created object to return `{name} ({dueDate})` string when called
+14. Call the created function and print the result using `console.log`
 15. When you have verified the results, clean the code pane to start fresh
 16. Declare an array of tasks with a couple of tasks
 17. Loop through array using `for`, `while`, or `do...while` loop
@@ -34,5 +34,5 @@
     tasks.push(newTask);
     ```
 
-20. Learn how to use an array specific loop [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) to print the out name of the array, the syntax is different using `=>` instead of the previously used `tasks[i]`
+20. Learn how to use an array specific loop function [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) to print the out name for each task in the array. The syntax is different, it will be using `=>` instead of the previously used `tasks[i]`
 
