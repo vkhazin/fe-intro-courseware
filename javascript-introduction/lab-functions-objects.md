@@ -28,8 +28,8 @@
 
     ```text
     const newTask = {
-    name: 'Clean bedroom',
-    dueDate: "3000-12-31"
+        name: 'Clean bedroom',
+        dueDate: "3000-12-31"
     };
     tasks.push(newTask);
     ```
