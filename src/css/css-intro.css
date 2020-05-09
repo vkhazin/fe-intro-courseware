@@ -1,0 +1,42 @@
+body {
+    margin-right:5%;
+    margin-left:5%;
+  }
+  
+  h1 {
+      color:#0078AC; 
+      font-size: 32px;
+      font-family: 'Open Sans';
+  }
+  
+  .highlighted-row {
+    color: darkblue;
+    background-color: #E1F5FA
+  }
+  
+  .task {
+    float: left;
+    cursor: pointer;
+  }
+  
+  tr:hover {
+    text-decoration: underline;
+    background-color: #E1F5FA;
+    cursor: pointer
+  }
+  
+  .odd {
+    background-color: #E1F5FA
+  }
+  
+  thead {
+      background: #E6E6E6;
+      font-weight: 600;
+      color:#646464;
+  }
+  
+  div p {
+    font-weight:600;
+  }
+  
+  

@@ -25,9 +25,9 @@ Select `style.css` in the `Files` pane to edit
 Add hover effect to the tasks table rows 
 
 	tr:hover {
-		text-decoration:  underline;
 		background-color:  #E1F5FA
 	}
+	
 `run` the changes every time you make a modification to CSS/Html files
 
 Try  to style your mouse cursor when user hover over the row ([https://www.w3schools.com/cssref/pr_class_cursor.asp](https://www.w3schools.com/cssref/pr_class_cursor.asp))
