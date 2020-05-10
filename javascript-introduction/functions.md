@@ -1,6 +1,12 @@
 # Functions
 
-![](../.gitbook/assets/function.png)
+```javascript
+function addNumbers(a, b) {
+    return a + b;
+}
+const c = addNumbers(1, 2);
+const d = addNumbers(3, 4);
+```
 
 * A function is a group of statements for a specific task, e.g. adding two numbers
 * Provides a way to create reusable code blocks
