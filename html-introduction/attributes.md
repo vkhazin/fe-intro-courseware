@@ -1,7 +1,7 @@
 
 # Attributes
   
-[![](/assets/html-attribute.png)](https://clearlydecoded.com/anatomy-of-html-tag)
+[![](/.gitbook/assets/html-attribute.png)](https://clearlydecoded.com/anatomy-of-html-tag)
  
 * In addition to Html tags, we have covered previously, there are also [attributes](https://www.w3schools.com/html/html_attributes.asp)
 * An attribute modifies the appearance of an Html element type

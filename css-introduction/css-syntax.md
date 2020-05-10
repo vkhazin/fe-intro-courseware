@@ -1,6 +1,6 @@
 # CSS Syntax
   
-[![](/assets/css-syntax.gif)](https://www.w3schools.com/whatis/whatis_css.asp)
+[![](/.gitbook/assets/css-syntax.gif)](https://www.w3schools.com/whatis/whatis_css.asp)
 
  Syntax is an arrangement of words and characters to create well-formed sentences in a language, human or computer
 

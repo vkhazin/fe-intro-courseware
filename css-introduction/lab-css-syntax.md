@@ -34,5 +34,5 @@ h1 {
 }
 ```
 *  Edit index.html and find tr HTML tag that represents table header, than add reference to the above-created class using [CSS Class Selector](https://www.w3schools.com/cssref/sel_class.asp) syntax e.g.: `<tr class="table-header-row">`, pay attention to the case-sensitive spelling!
-![](../assets/lab-css-syntax.png)
+![](../.gitbook/assets/lab-css-syntax.png)
 *  Now let's try to add a highlight to every other row in our table, create a new CSS class with background color = #E1F5FA and apply to every other table row

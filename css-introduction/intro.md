@@ -1,6 +1,6 @@
 # CSS: Cascading Style Sheets
  
-[![](/assets/html-vs-css.jpeg)](https://steemit.com/dmania/@moeenali/html-vs-css-d-zg1hbmlh-ufjik)
+[![](/.gitbook/assets/html-vs-css.jpeg)](https://steemit.com/dmania/@moeenali/html-vs-css-d-zg1hbmlh-ufjik)
   
 * CSS describes how HTML elements are to be displayed or [rendered](https://dictionary.cambridge.org/dictionary/english/render)
 
