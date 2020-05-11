@@ -71,3 +71,6 @@ At the end of the course, you will be able to:
 * Variables
 * Data Types
 
+## Notes
+
+* Alternatives to repl.it: https://glitch.com/, https://plnkr.co/, https://stackblitz.com/
