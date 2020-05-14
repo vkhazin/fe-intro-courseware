@@ -1,6 +1,6 @@
 # User Interactions
 
-* The purpose of user interface is to allow the user to interact with a webpage
+* The purpose of user interface is to allow the user to interact with a website
 * There are Html elements for user interactions called [inputs](https://www.w3schools.com/html/html_form_input_types.asp)
 * Input, for user to type a text in: `<input type="text" id="firstName"/>`
 * Button, to initiate an action: `<input type="button" value="OK" onclick="OkClick()"/>`
