@@ -1,4 +1,4 @@
-* Linked Together
+# Linked Together
 
 * A typical Html markup
 ```html

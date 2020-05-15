@@ -13,9 +13,9 @@ function OkClick() {
   // Format a message to display, notice back tick characters around the text instead of single quotes!
   const message = `Hello ${firstName}!`;
   // Find the element to print message to
-  const elm = document.getElementById("message");
+  const messagePlaceholder = document.getElementById("message");
   // Update the Html element content
-  elm.innerText = message;
+  messagePlaceholder.innerText = message;
 }
 ```
 * How do I know it is `value` to read the input and `onClick` to react to the button?
