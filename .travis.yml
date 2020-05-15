@@ -12,4 +12,4 @@ script:
   - gitbook install
   - gitbook build
   - surge --domain http://fe-intro-courseware.surge.sh/ --project ./_book
-  - docker run --rm amazon/aws-cli s3 sync ./_book s3://${s3bucket}/ . --delete
+  - docker run --env AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID} --env AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY} amazon/aws-cli s3 sync ./_book s3://${s3bucket}/ . --delete
