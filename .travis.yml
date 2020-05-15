@@ -12,4 +12,4 @@ script:
   - gitbook install
   - gitbook build
   - surge --domain http://fe-intro-courseware.surge.sh/ --project ./_book
-  - docker run --rm amazon/aws-cli --version
+  - docker run --rm amazon/aws-cli s3 sync ./_book s3://${s3bucket}/ . --delete
