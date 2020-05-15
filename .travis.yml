@@ -1,10 +1,15 @@
 language: node_js
 node_js:
   - "12"
-  
+
+sudo: required
+services:
+  - docker
+
 script:
   - npm install
   - npm install gitbook-cli surge -g
   - gitbook install
   - gitbook build
   - surge --domain http://fe-intro-courseware.surge.sh/ --project ./_book
+  - docker run --rm amazon/aws-cli --version
