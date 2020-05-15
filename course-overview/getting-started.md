@@ -5,4 +5,3 @@
 * You will be using your laptop with Chrome browser and internet access
 * Code  will be developed using online Integrated Development Environment \(IDE\)
 * The online IDE is yours to keep after the course
-
