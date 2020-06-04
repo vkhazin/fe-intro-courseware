@@ -66,3 +66,4 @@
 * [Html DOM](html-css-js/html-dom.md)
 * [User Interactions](html-css-js/user-interactions.md)
 * [Lab: User Interactions](html-css-js/lab-user-interactions.md)
+* [Building a list](html-css-js/build-list.md)
