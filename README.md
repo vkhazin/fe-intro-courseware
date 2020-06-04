@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to Front-End Development
 
 ## Overview and Objectives
 

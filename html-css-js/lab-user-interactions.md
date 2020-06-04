@@ -6,25 +6,30 @@
 4. In the middle pane, you will be writing Html/Javascript code
 5. The `run` button on the top will render the Html and run Javascript
 6. In the right pane you will see the result and you can also open the result in a new browser tab/window
-7. In the `index.html` page, create a new input element for first name
+7. In the `index.html` page inside the `body` tag, create a new input element for first name
 8. The input element should have a label in front of it, e.g.: 'First Name:' and should use type [text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text) and have id attribute equal `firstName`, e.g.:
 ```html
 <input type="text" id="firstName"/>
 ```
-9. Under the input field place another input element of type [button](https://www.w3schools.com/tags/tag_button.asp), with text `Ok` and a call to JavaScript function when the button is clicked, see the previous slide for details or search online on how to call a JavaScript function when Html button is clicked
-10. Under the button add a `div` element with id attribute `messageElm`
-11. In the `script.js` file create a new function with any name e.g.: `OkClick`
+9. Under the input field place another input element of [button](https://www.w3schools.com/tags/tag_button.asp) type with text `Ok` and `onClick` attribute with value `OkClick()`, e.g.:
+```
+<input type="button" value="OK" onclick="OkClick()"/>
+```
+10. Under the button add a `div` element with attribute named `id` and with value `messageElm`
+11. In the `script.js` file create a new function with name: `OkClick`
 12. The function code should find html element by id using the [getElementById](https://www.w3schools.com/jsref/met_document_getelementbyid.asp) syntax
-13. Read `value` attribute of the element found and assign the value to a variable
-14. The next step will be to display the message `Hello ${firstName}` where first name will be replaced by the value of input element, e.g.
+13. Read the `value` attribute of the element found in the previous step and assign it to a variable e.g. `const firstName = ...`
+14. The next step will be to display the message `Hello ${firstName}` where first name will be replaced by the value of variable declared in the previous step that came for the input element, e.g.
   ```javascript
   const message = `Hello ${firstName}!`;
+  //the next line is for debugging purposes only
+  console.log(message);
   ```
-15. Now we need to find the division where to place the message:
+15. Now we need to find the division where to "print" the message:
 ```javascript
 const messagePlaceholder = document.getElementById("messageElm");
 ```
-16. And replace the element text with the message:
+16. And then replace the placeholder `innerText` property with the variable named `message`:
 ```javascript
 messagePlaceholder.innerText = message;
 ```
