@@ -29,5 +29,5 @@
   <p id="italicText">A text rendered italic</p>
   ```
 * This is called **CSS id Selector** that applies the style based on the `id` attribute value
-* There are more [CSS selectors](https://www.w3schools.com/css/css_selectors.asp), we will limit our quest to the three above for now...
+* There are more [CSS selectors](https://www.w3schools.com/css/css_selectors.asp), we will limit our quest to the three above for now..
 
